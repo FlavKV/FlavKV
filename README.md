@@ -34,9 +34,6 @@
   <a href="https://www.docker.com/">
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   </a>
-  <a href="https://www.heroku.com/">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>
-  </a>
 </div>
 
 <p></p>
