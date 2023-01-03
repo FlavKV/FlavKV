@@ -1,7 +1,7 @@
 ### Hi there, I'm Flavien 👋
 
 <p>I am a junior data scientist teaching code at Le Wagon.</p>
-<p>Previously, I had business-oriented experiences in a tech startup and established firms like Engie and FDJ Group. At the beginning of 2022, I decided to improve my coding skills in data field because I think it is crucial to take data-driven decision to create value.</p>
+<p>Previously, I had business-oriented experiences in a tech startup and established firms like Engie and FDJ Group. At the beginning of 2022, I decided to improve my coding skills in data field because I think it is crucial to take data-driven decisions to create value.</p>
 <p></p>
  
 **Languages and Tools**
