@@ -37,9 +37,6 @@
   <a href="https://streamlit.io/">
   <img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>
   </a>
-  <a href="https://streamlit.io/">
-  <img src="https://fastapi.tiangolo.com/img/icon-white.svg" title="Streamlit" alt="Stremlit" width="40" height="40"/>
-  </a>
   <a href="https://cloud.google.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>
   </a>
