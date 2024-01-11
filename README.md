@@ -1,8 +1,6 @@
 ### Hi there, I'm Flavien 👋
 
-<p>I am a data analyst/scientist freelance teaching code.</p>
-<p>Previously, I had business-oriented experiences in a tech startup and established firms like Engie and FDJ Group. At the beginning of 2022, I decided to improve my coding skills in data field because I think it is crucial to take data-driven decisions to create value.</p>
-<p></p>
+<p>I am a Data Analyst at Artefact.</p>
  
 **Languages and Tools**
   
