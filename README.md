@@ -1,4 +1,4 @@
-### Hi there, I'm Flavien 👋
+### Hi there 👋
 
 <p>I am a Data Analyst at Artefact.</p>
  
